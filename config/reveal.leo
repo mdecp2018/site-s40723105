@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -37,6 +37,18 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20181108181024.1"><vh>快捷鍵</vh>
+<v t="leo.20181108181024.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108181230.1"><vh>快捷鍵</vh>
+<v t="leo.20181108181230.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108181405.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181108181405.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181108185820.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181108185820.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -124,7 +136,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 40723105 分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -326,5 +338,54 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181108181024.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108181024.2">[回網站](./../index.html)
+
+
+[回 2018 Full 分組網誌](./../blog/index.html)</t>
+<t tx="leo.20181108181230.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108181230.2"># 拜託老師不要當我</t>
+<t tx="leo.20181108181405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108181405.2"># 講個笑話
+
+冰塊最想做什麼事?
+
+</t>
+<t tx="leo.20181108185820.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108185820.2"># 冰塊最想退伍，因為他當冰(兵)很久了
+
+哈哈 好像不太好笑</t>
 </tnodes>
 </leo_file>
